@@ -1,0 +1,50 @@
+{
+color = 0;
+glyphname = odotbelow;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (200.264,0);
+ref = dotbelowcomb;
+}
+);
+width = 601.93;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (195.756,0);
+ref = dotbelowcomb;
+}
+);
+width = 598.59666;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (209.784,-38);
+ref = dotbelowcomb;
+}
+);
+width = 629.27667;
+}
+);
+metricLeft = o;
+metricRight = o;
+unicode = 7885;
+}

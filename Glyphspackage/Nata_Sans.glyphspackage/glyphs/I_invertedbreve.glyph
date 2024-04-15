@@ -1,0 +1,47 @@
+{
+glyphname = Iinvertedbreve;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-61.433,203.594);
+ref = invertedbreve;
+}
+);
+width = 251.11;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-63.882,203.594);
+ref = invertedbreve;
+}
+);
+width = 246.21;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-48.525,203.594);
+ref = invertedbreve;
+}
+);
+width = 276.93;
+}
+);
+unicode = 522;
+}

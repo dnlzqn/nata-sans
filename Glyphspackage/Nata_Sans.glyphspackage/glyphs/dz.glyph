@@ -1,0 +1,47 @@
+{
+glyphname = dz;
+kernLeft = o;
+kernRight = z;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (636.07,0);
+ref = z;
+}
+);
+width = 1050.55;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (606.55,0);
+ref = z;
+}
+);
+width = 1016.35;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (637.91,0);
+ref = z;
+}
+);
+width = 1151.04;
+}
+);
+unicode = 499;
+}

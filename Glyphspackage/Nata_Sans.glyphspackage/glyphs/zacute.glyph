@@ -1,0 +1,50 @@
+{
+color = 0;
+glyphname = zacute;
+kernLeft = z;
+kernRight = z;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (171.234,-5.658);
+ref = acute;
+}
+);
+width = 414.48;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (146.507,-5.658);
+ref = acute;
+}
+);
+width = 409.8;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (203.181,-5.658);
+ref = acute;
+}
+);
+width = 513.13;
+}
+);
+metricLeft = z;
+metricRight = z;
+unicode = 378;
+}

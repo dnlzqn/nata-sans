@@ -1,0 +1,49 @@
+{
+color = 0;
+glyphname = atilde.ss01;
+kernLeft = o;
+kernRight = i;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = a.ss01;
+},
+{
+pos = (125.405,65.147);
+ref = tilde;
+}
+);
+width = 636.07;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a.ss01;
+},
+{
+pos = (96.735,63.147);
+ref = tilde;
+}
+);
+width = 606.55;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a.ss01;
+},
+{
+pos = (148.448,89.147);
+ref = tilde;
+}
+);
+width = 637.91;
+}
+);
+metricLeft = a;
+metricRight = a;
+}

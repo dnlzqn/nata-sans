@@ -1,0 +1,47 @@
+{
+glyphname = NJ;
+kernLeft = H;
+kernRight = J;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (705.54,0);
+ref = J;
+}
+);
+width = 1037.43;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (735.63,0);
+ref = J;
+}
+);
+width = 1062.74667;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (825.81,0);
+ref = J;
+}
+);
+width = 1199.94667;
+}
+);
+unicode = 458;
+}

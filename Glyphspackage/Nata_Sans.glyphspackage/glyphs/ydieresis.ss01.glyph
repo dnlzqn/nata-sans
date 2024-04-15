@@ -1,0 +1,48 @@
+{
+glyphname = ydieresis.ss01;
+kernLeft = g;
+kernRight = g;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = y.ss01;
+},
+{
+pos = (133.506,63.147);
+ref = dieresis;
+}
+);
+width = 611.97;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = y.ss01;
+},
+{
+pos = (156.839,63.147);
+ref = dieresis;
+}
+);
+width = 618.88;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = y.ss01;
+},
+{
+pos = (48.11,63.147);
+ref = dieresis;
+}
+);
+width = 642.42;
+}
+);
+metricLeft = y;
+metricRight = y;
+}

@@ -1,0 +1,48 @@
+{
+glyphname = Icircumflex.ss01;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = I.ss01;
+},
+{
+pos = (41.737,204.594);
+ref = circumflex;
+}
+);
+width = 418.99;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I.ss01;
+},
+{
+pos = (-18.532,204.594);
+ref = circumflex;
+}
+);
+width = 358.99;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = I.ss01;
+},
+{
+pos = (35.858,210.594);
+ref = circumflex;
+}
+);
+width = 478.99;
+}
+);
+metricLeft = I;
+metricRight = I;
+}

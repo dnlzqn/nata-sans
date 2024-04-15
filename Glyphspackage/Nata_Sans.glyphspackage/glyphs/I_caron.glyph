@@ -1,0 +1,47 @@
+{
+glyphname = Icaron;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-44.054,206.594);
+ref = caron;
+}
+);
+width = 251.11;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-74.503,206.594);
+ref = caron;
+}
+);
+width = 246.21;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-68.146,206.594);
+ref = caron;
+}
+);
+width = 276.93;
+}
+);
+unicode = 463;
+}

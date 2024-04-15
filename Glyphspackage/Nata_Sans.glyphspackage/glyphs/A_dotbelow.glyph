@@ -1,0 +1,48 @@
+{
+color = 0;
+glyphname = Adotbelow;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (247.034,0);
+ref = dotbelowcomb;
+}
+);
+width = 697.01;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (305.876,0);
+ref = dotbelowcomb;
+}
+);
+width = 760.33667;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (299.784,-38);
+ref = dotbelowcomb;
+}
+);
+width = 844.6;
+}
+);
+metricLeft = A;
+metricRight = A;
+unicode = 7840;
+}

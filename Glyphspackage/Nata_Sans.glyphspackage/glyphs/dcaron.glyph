@@ -1,0 +1,49 @@
+{
+glyphname = dcaron;
+kernLeft = o;
+kernRight = l;
+layers = (
+{
+layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (131.367,46.147);
+ref = caron;
+}
+);
+width = 636.07;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (67.392,46.147);
+ref = caron;
+}
+);
+width = 606.55;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (16.018,46.147);
+ref = caron;
+}
+);
+width = 637.91;
+}
+);
+metricLeft = d;
+metricRight = d;
+unicode = 271;
+}
