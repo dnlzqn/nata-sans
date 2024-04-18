@@ -8,33 +8,33 @@ layerId = "4AB26A45-BF5C-4688-9941-0614BE61FCA2";
 shapes = (
 {
 angle = 180;
-pos = (531.93,500);
+pos = (581.93,500);
 ref = six;
 }
 );
-width = 531.93;
+width = 581.93;
 },
 {
 layerId = m002;
 shapes = (
 {
 angle = 180;
-pos = (571.94,500);
+pos = (631.94,500);
 ref = six;
 }
 );
-width = 571.94;
+width = 631.94;
 },
 {
 layerId = m003;
 shapes = (
 {
 angle = 180;
-pos = (610.783,500);
+pos = (630.783,500);
 ref = six;
 }
 );
-width = 610.78333;
+width = 630.78333;
 }
 );
 }

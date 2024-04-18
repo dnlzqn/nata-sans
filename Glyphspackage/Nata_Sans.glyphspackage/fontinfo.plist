@@ -1206,6 +1206,7 @@ o = -10;
 };
 "@MMK_L_two" = {
 "@MMK_R_plus" = -30;
+"@MMK_R_three" = 0;
 "@MMK_R_zero" = 0;
 };
 "@MMK_L_two.dnom" = {
@@ -2669,6 +2670,9 @@ u = -10;
 };
 o = {
 space = 10;
+};
+six = {
+"@MMK_R_seven" = 10;
 };
 u = {
 t = 0;

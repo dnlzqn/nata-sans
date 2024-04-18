@@ -80,7 +80,7 @@ nodes = (
 );
 }
 );
-width = 501.46;
+width = 531.46;
 },
 {
 background = {
@@ -168,7 +168,7 @@ nodes = (
 );
 }
 );
-width = 553.61333;
+width = 563.61333;
 },
 {
 layerId = m003;
