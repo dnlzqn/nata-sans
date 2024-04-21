@@ -11,7 +11,7 @@ The curvatures of the letters "o" and "a" contain the compositional principle th
 
 The font family is 100% Latin Plus, covering 219 latin based languages, which are spoken in different 212 countries.
 It is a variable font with six predefined weights ranging from thin to black.
-The font contains 701 glyphs. Each glyph has three dedicated drawing to ensure a perfect interpolation between all four weights.
+The font contains 702 glyphs. Each glyph has three dedicated drawing to ensure a perfect interpolation between all four weights.
 
 Nata Sans web specimen: [Nata Sans web specimen](https://dnlzqn.xyz/nata)
 
