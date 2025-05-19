@@ -1,0 +1,13 @@
+
+familyName: Nata Sans
+sources:
+  - NataSans.glyphs
+axisOrder:
+  - wght
+outputDir: build
+buildVariable: true
+buildStatic: false
+autohintTTF: false
+flattenComponents: true
+decomposeTransformedComponents: true
+includeSourceFixes: false
