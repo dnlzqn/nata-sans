@@ -6,7 +6,7 @@ Originally designed for user interfaces, it features a generous x-height that gi
 
 With short ascenders and descenders, Nata Sans offers a compact yet balanced texture on the page. The distinctive curvature of letters like “o” and “a” forms the core of its visual identity.
 
-![Nata Sans preview](./Nata.svg)  
+![Nata Sans preview](./article/Nata.svg) 
 👉 [Web specimen](https://dnlzqn.xyz/nata)
 
 ---
