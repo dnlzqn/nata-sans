@@ -34,15 +34,15 @@ Type words between colons — like `:smile:` or `:wink:` — and they will autom
 Ideal for subversive headlines, UI elements, or typographic play.
 
 **Supported sequences:**
-- :smile: → 😄
-- :wink: → 😉
-- :sad: → 😢
-- :cry: → 😭
-- :laugh: → 😂
-- :angry: → 😠
-- :surprised: → 😲
-- :eyeroll: → 🙄
-- :tongue: → 😛
+- `:smile:` → 😄
+- `:wink:` → 😉
+- `:sad:` → 😢
+- `:cry:` → 😭
+- `:laugh:` → 😂
+- `:angry:` → 😠
+- `:surprised:` → 😲
+- `:eyeroll:` → 🙄
+- `:tongue:` → 😛
 
 ---
 
