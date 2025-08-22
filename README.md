@@ -31,7 +31,7 @@ This release marks the completion of **version 2.0**, fully prepared for inclusi
 ### 😄 Emoji Ligatures (Markdown-style)
 Type words between colons — like `:smile:` or `:wink:` — and they will automatically turn into expressive ligature glyphs.
 
-Ideal for subversive headlines, UI elements, or typographic play.
+Ideal for UI design, dashboards, signage & editorial.
 
 **Supported sequences:**
 - `:smile:` → 😄
